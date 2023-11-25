@@ -6,8 +6,8 @@ Right now, I'm expanding my knowledge about programming and application developm
 
 ### 📩 How to reach me: 
 
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/francescoliveras)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-oliveras-perez)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/karta282950)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerry-sun-2b66b1256)
 
 ### 💬 My main interests are / 🌱 I’m currently learning:
 [![Machine Learnig](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge)](#) 
@@ -19,22 +19,22 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-lightgrey?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-lightgrey?style=for-the-badge)](#)
 
-[![Blockchain](https://img.shields.io/badge/-Blockchain-lightgrey?style=for-the-badge)](#) 
 [![Smart contracts](https://img.shields.io/badge/-Smart%20contracts-lightgrey?style=for-the-badge)](#) 
 [![Software development](https://img.shields.io/badge/-Software%20development-lightgrey?style=for-the-badge)](#) 
 [![Automation](https://img.shields.io/badge/-Automation-lightgrey?style=for-the-badge)](#)
 
 ### Programming languages I have used
 
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](#) 
+[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](#)
+[![Html](https://img.shields.io/badge/Html-gree?logo=python&logoColor=white&style=for-the-badge)](#) 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#) 
 [![R](https://img.shields.io/badge/R-9cf?style=for-the-badge&logo=r&logoColor=white)](#) 
 [![SQL](https://img.shields.io/badge/SQL-%6DB33F.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)](#) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white)](#) 
-[![JavaS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![PowerBI](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
 
 ### 🤖 Machine learning and Deep learning tecnologies (Python & R)
 [![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
