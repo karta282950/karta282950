@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0CF7C1&center=true&vCenter=true&width=1000&lines=Welocome+to+my+Github+Profile+%F0%9F%98%89;My+name+is+Francesc+Oliveras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0CF7C1&center=true&vCenter=true&width=1000&lines=Welocome+to+my+Github+Profile+%F0%9F%98%89;My+name+is+Kerry+Suns)](https://git.io/typing-svg)
 
 <h2> Who I am? 🙌 👌</h2>
 Mi name is Kerry from Keelung, Taiwan and I have studied professional training in multiplatform application development.
-Right now, I'm expanding my knowledge about programming and application development and I'm learning about machine learning, deep learning and smart contract development on the blockchain.
+Right now, I'm expanding my knowledge about programming and application development and I'm learning about machine learning, deep learning.
 
 ### 📩 How to reach me: 
 
@@ -19,21 +19,21 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-lightgrey?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-lightgrey?style=for-the-badge)](#)
 
-[![Smart contracts](https://img.shields.io/badge/-Smart%20contracts-lightgrey?style=for-the-badge)](#) 
-[![Software development](https://img.shields.io/badge/-Software%20development-lightgrey?style=for-the-badge)](#) 
-[![Automation](https://img.shields.io/badge/-Automation-lightgrey?style=for-the-badge)](#)
-
 ### Programming languages I have used
 
 [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](#)
 [![Html](https://img.shields.io/badge/Html-gree?logo=python&logoColor=white&style=for-the-badge)](#) 
+[![Javascript](https://img.shields.io/badge/Javascript-EA9999?style=for-the-badge&logo=Javascript&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
 [![R](https://img.shields.io/badge/R-9cf?style=for-the-badge&logo=r&logoColor=white)](#) 
+
 [![SQL](https://img.shields.io/badge/SQL-%6DB33F.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)](#) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![PowerBI](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Tableau](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Hive](https://img.shields.io/badge/Hive-8E7CC3?style=for-the-badge&logo=Hive&logoColor=white)](#)
+
+[![PowerBI](https://img.shields.io/badge/PowerBI-F1C232?style=for-the-badge&logo=PowerBI&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-16537E?style=for-the-badge&logo=Tableau&logoColor=white)](#)
 
 
 ### 🤖 Machine learning and Deep learning tecnologies (Python & R)
@@ -49,6 +49,7 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#) 
 [![and more...](https://img.shields.io/badge/+%20and%20more...-%23A8B9CC.svg?&style=for-the-badge&logo=plus&logoColor=white)](#)
 
+<!--
 ### ⛓ Blockchain tecnologies (Solidity, Python & JavaScript).
 [![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](#) 
 [![Brownie](https://img.shields.io/badge/Brownie-FF7139?style=for-the-badge&logo=Brownie&logoColor=white)](#) 
@@ -76,12 +77,13 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
 [![JAX](https://img.shields.io/badge/JAX-B7312F?style=for-the-badge&logo=jax&logoColor=white)](#)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+-->
 
 ### Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fxop0218&count_private=true&theme=tokyonight&showicons=true)]()
-![fxop0218's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fxop0218&theme=tokyonight&hide_border=false)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=karta282950&count_private=true&theme=tokyonight&showicons=true)]()
+![karta282950's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karta282950&theme=tokyonight&hide_border=false)
 
-![fxop0218's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fxop0218&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![karta282950's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karta282950&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **fxop0218/fxop0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
